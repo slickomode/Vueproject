@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Budget-Paketet",
+        "price": "799",
+        "including": "Massage 30min och sallad"
+    },
+    {
+        "id": "2",
+        "name": "Mellan-Paketet",
+        "price": "1299",
+        "including": "Massage 60min och Yoga 30min"
+    },
+    {
+        "id": "3",
+        "name": "Lyx-Paketet",
+        "price": "12990",
+        "including": "Massage 60min och Yoga 30min och sallad"
+    }
+]

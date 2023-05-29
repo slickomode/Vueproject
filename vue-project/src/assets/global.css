@@ -1,0 +1,24 @@
+:root {
+    --body-color: #eceff5;
+    --nav-color: #4fb96f;
+    --side-nav: #010718;
+    --text-color: #FFF;
+    --search-bar: #F2F2F2;
+    --search-text: #aebcf7;
+    --container-color: #e7e8ec;
+  }
+
+  body.dark {
+    --body-color: #18191A;
+    --nav-color: #242526;
+    --side-nav: #242526;
+    --text-color: #CCC;
+    --search-bar: #242526;
+    --container-color: #d4d6dd;
+  }
+
+
+  body {
+    height: 100vh;
+    background-color: var(--body-color);
+  }
